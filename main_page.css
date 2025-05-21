@@ -1,0 +1,17 @@
+nav{
+    position: fixed;
+}
+main{
+    margin-top: -5.5%;
+    padding-left: 13%;
+    margin-right: 5%;
+}
+footer{
+    margin-top: 15%;
+    padding-left: 12%;
+}
+header{
+    position: fixed;
+    margin-top: -5%;
+    padding-left: 6px;
+}
